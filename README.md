@@ -12,3 +12,5 @@ Começando com a estrutura básica de um html:
 
 <body></body> //Nessa tag eu ponho todo conteúdo visível (ou não) do HTML, textos, videos, links e etc.
 
+Além disso, aprendi a tag <title> onde posso colocar algum conteúdo de caractere na aba do site.
+
